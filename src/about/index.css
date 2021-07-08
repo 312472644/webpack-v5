@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'YouYuan';
+  src: url('@assets/font/fontFamily.ttf');
+}
+
+.about-container {
+  font-family: 'YouYuan';
+  height: 100vh;
+  color: #333;
+  font-size: 15px;
+  background: url('@assets/images/animation.png') no-repeat;
+}
+
+.box {
+  border: 1px solid red;
+}
